@@ -20,4 +20,8 @@
 .tile-title {
 	font-size: 1.4em;
 	padding: 40px 10px 40px 10px;
+}
 
+.ux-portfolio-gallery img {
+	padding: 10px;
+}
